@@ -3,8 +3,7 @@
 ### Follow this article in **[YouTube](https://www.youtube.com/watch?v=m21nFreFw8A)**
 ### Prerequisites
 1. EC2 instance with Java v1.8.x 
-##
-   yum install java-1.8*
+##   yum install java-1.8*
 
 ### Install Apache Tomcat
 Download tomcat packages from  https://tomcat.apache.org/download-80.cgi onto /opt on EC2 instance
